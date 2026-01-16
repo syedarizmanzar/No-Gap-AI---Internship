@@ -1,2 +1,3 @@
 
 I am trying to merge and check file conflict.
+ariz: i added this line.
